@@ -20,7 +20,7 @@ global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
 global.author = "GlobalTechInfo\n\n+923444844060"
 global.creator = "923444844060@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = '-'
 global.premium = ["923444844060"] // Premium User
 
 //channel id
