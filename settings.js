@@ -22,7 +22,7 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 
 global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
 
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
+global.ownernumber = ['+88001820414108'] //ur owner number, dont add more than one
 
 global.ownername = '© GlobalTechInfo' //ur owner name
 
@@ -44,7 +44,7 @@ global.creator = "923444844060@s.whatsapp.net"
 
 global.xprefix = '.'
 
-global.premium = ["923444844060"] // Premium User
+global.premium = ["+88001820414108"] // Premium User
 
 
 
