@@ -22,7 +22,7 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 
 global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
 
-global.ownernumber = ['+88001820414108'] //ur owner number, dont add more than one
+global.ownernumber = ['+8801747725262'] //ur owner number, dont add more than one
 
 global.ownername = '© GlobalTechInfo' //ur owner name
 
