@@ -20,7 +20,7 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
 
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
+global.botname = 'ℝ𝔸ℕ𝕀 𝔸𝕀' //ur bot name
 
 global.ownernumber = ['+8801747725262'] //ur owner number, dont add more than one
 
